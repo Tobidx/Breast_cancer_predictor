@@ -1,0 +1,6 @@
+# requirements.txt
+gradio
+joblib
+numpy
+scikit-learn
+xgboost
